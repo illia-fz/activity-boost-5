@@ -1,0 +1,3 @@
+This is an info file for repository 5.
+Line 2.
+Line 3.
